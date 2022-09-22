@@ -2,7 +2,7 @@
 
 <strong>
 
-**So... it's almost two a.m.
+So... it's almost two a.m.
 
 I'm stressed beyond belief with homework. And yet my overly active and creative mind is like 'story!'. So I conjured the start of this in under two hours. It's unedited... probably sucks... but the sporadic part of me is like 'POST IT!' and since its 2 a.m and I'm really slap happy I'm like 'okay!'.
 
