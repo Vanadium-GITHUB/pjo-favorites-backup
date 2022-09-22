@@ -6,8 +6,8 @@
 [previous-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_1.md
 [story-badge]: https://img.shields.io/static/v1?label=Story&message=Page&color=blue&logo=bookstack&style=for-the-badge
 [story-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_0.md
-[next-badge]: https://img.shields.io/static/v1?label=Previous&message=Page&color=blue&logo=bookstack&style=for-the-badge
-[next-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_2.md
+[next-badge]: https://img.shields.io/static/v1?label=Next&message=Page&color=blue&logo=bookstack&style=for-the-badge
+[next-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_3.md
 
 <strong>
 Well, here we are again. It's really late.
