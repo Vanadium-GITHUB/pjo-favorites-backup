@@ -2,11 +2,11 @@
 
 [![Previous][previous-badge]][previous-link]   [![Story][story-badge]][story-link]   [![Next][next-badge]][next-link]
 
-[previous-badge]: https://img.shields.io/static/v1?label=Previous&message=Chapter&color=blue&logo=bookstack&style=for-the-badge
+[previous-badge]: https://img.shields.io/static/v1?label=Previous&message=Page&color=blue&logo=bookstack&style=for-the-badge
 [previous-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_7.md
-[story-badge]: https://img.shields.io/static/v1?label=&message=Chapter&color=blue&logo=bookstack&style=for-the-badge
+[story-badge]: https://img.shields.io/static/v1?label=&message=Page&color=blue&logo=bookstack&style=for-the-badge
 [story-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_0.md
-[next-badge]: https://img.shields.io/static/v1?label=Previous&message=Chapter&color=blue&logo=bookstack&style=for-the-badge
+[next-badge]: https://img.shields.io/static/v1?label=Previous&message=Page&color=blue&logo=bookstack&style=for-the-badge
 [next-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_9.md
 
 <strong>
