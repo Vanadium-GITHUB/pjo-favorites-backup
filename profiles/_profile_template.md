@@ -11,15 +11,7 @@
 [instagram-link]: https://www.instagram.com/averagecanadian3/
 
 ## Info
-Grande re-entry on September 22nd!
 
-I'll be posting three new stories then and a one shot.
-
-Hopefully I'll have the last chapter of forgotten paradise up then too. (Fingers crossed)
-
-I also have an instagram account where I draw things: @averagecanadian3
-
-This is going to be a busy year.
 
 ## Stories
 

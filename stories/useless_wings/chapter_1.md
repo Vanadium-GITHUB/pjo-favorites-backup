@@ -1,5 +1,12 @@
 ## Useless Wings by Average Canadian
 
+[![Fanfiction][fanfiction-badge]][fanfiction-link]   [![Story][instagram-badge]][instagram-link]   [![Instagram][instagram-badge]][instagram-link]
+
+[fanfiction-badge]: https://img.shields.io/static/v1?label=Fanfiction&message=Profile&color=blue&logo=bookstack&style=for-the-badge
+[fanfiction-link]: https://www.fanfiction.net/u/5454417/Average-Canadian
+[instagram-badge]: https://img.shields.io/static/v1?label=Instagram&message=Art&color=ff69b4&logo=instagram&style=for-the-badge
+[instagram-link]: https://www.instagram.com/averagecanadian3/
+
 <strong>
 
 So... it's almost two a.m.
