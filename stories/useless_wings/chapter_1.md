@@ -1,11 +1,13 @@
 ## Useless Wings by Average Canadian
 
-[![Fanfiction][fanfiction-badge]][fanfiction-link]   [![Story][instagram-badge]][instagram-link]   [![Instagram][instagram-badge]][instagram-link]
+[![Previous][previous-badge]][previous-link]   [![Story][story-badge]][story-link]   [![Next][next-badge]][next-link]
 
-[fanfiction-badge]: https://img.shields.io/static/v1?label=Fanfiction&message=Profile&color=blue&logo=bookstack&style=for-the-badge
-[fanfiction-link]: https://www.fanfiction.net/u/5454417/Average-Canadian
-[instagram-badge]: https://img.shields.io/static/v1?label=Instagram&message=Art&color=ff69b4&logo=instagram&style=for-the-badge
-[instagram-link]: https://www.instagram.com/averagecanadian3/
+[previous-badge]: https://img.shields.io/static/v1?label=Previous&message=Page&color=blue&logo=bookstack&style=for-the-badge
+[previous-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_0.md
+[story-badge]: https://img.shields.io/static/v1?label=Story&message=Page&color=blue&logo=bookstack&style=for-the-badge
+[story-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_0.md
+[next-badge]: https://img.shields.io/static/v1?label=Next&message=Page&color=blue&logo=bookstack&style=for-the-badge
+[next-link]: https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_2.md
 
 <strong>
 
@@ -257,3 +259,7 @@ And not even a trace of him was left. Not even a simple black feather.
 <strong>
 So tell me, should I keep going? or does this seriously need to be edited by a more awake, alert me who's had some sense injected into my head.
 </strong>
+
+<hr>
+
+[![Previous][previous-badge]][previous-link]   [![Story][story-badge]][story-link]   [![Next][next-badge]][next-link]
