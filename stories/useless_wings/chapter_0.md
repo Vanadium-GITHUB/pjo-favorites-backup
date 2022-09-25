@@ -121,7 +121,7 @@ T
 			<a href = "https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_11.md"><strong>11</strong></a>
 		</td>
 		<td>
-			1000
+			5126
 		</td>
 	</tr>
 	<tr>
@@ -129,7 +129,7 @@ T
 			<a href = "https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_12.md"><strong>12</strong></a>
 		</td>
 		<td>
-			1000
+			5641
 		</td>
 	</tr>
 	<tr>
@@ -137,7 +137,7 @@ T
 			<a href = "https://github.com/Vanadium-GITHUB/pjo-favorites-backup/blob/main/stories/useless_wings/chapter_13.md"><strong>13</strong></a>
 		</td>
 		<td>
-			1000
+			6936
 		</td>
 	</tr>
 	<tr>
